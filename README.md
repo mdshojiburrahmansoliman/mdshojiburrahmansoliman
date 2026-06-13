@@ -1,7 +1,6 @@
-https://media.licdn.com/dms/image/v2/D5616AQETiDMJNQ7WMw/profile-displaybackgroundimage-shrink_200_800/B56Z5A8XJ7KsAQ-/0/1779206026088?e=1782950400&v=beta&t=TcDiVylhXyHuQEMTL58btf8JiP_CxrX6t7geH5UN9Ms
-# Hi there 👋, I'm Md Shojibur Rahman Soliman
+### Hi there 👋, I'm Md Shojibur Rahman Soliman
 #### AI Automation Strategist
-![AI Automation Strategist]
+![AI Automation Strategist](https://media.licdn.com/dms/image/v2/D5616AQETiDMJNQ7WMw/profile-displaybackgroundimage-shrink_200_800/B56Z5A8XJ7KsAQ-/0/1779206026088?e=1782950400&v=beta&t=TcDiVylhXyHuQEMTL58btf8JiP_CxrX6t7geH5UN9Ms)
 
 I help businesses replace manual work with intelligent AI automation systems that drive real growth.
 
@@ -35,6 +34,4 @@ Skills: AI Automation
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdshojiburrahmansoliman&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mdshojiburrahmansoliman)  
 
