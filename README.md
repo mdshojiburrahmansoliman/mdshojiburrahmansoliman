@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Md Shojibur Rahman Soliman
-#### AI Automation Strategist
+# Hi there 👋, I'm Md Shojibur Rahman Soliman
+## AI Automation Strategist
 ![AI Automation Strategist](https://media.licdn.com/dms/image/v2/D5616AQETiDMJNQ7WMw/profile-displaybackgroundimage-shrink_200_800/B56Z5A8XJ7KsAQ-/0/1779206026088?e=1782950400&v=beta&t=TcDiVylhXyHuQEMTL58btf8JiP_CxrX6t7geH5UN9Ms)
 
 I help businesses replace manual work with intelligent AI automation systems that drive real growth.
