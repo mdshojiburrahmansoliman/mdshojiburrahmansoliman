@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Md Shojibur Rahman Soliman
 ## AI Automation Strategist
-![AI Automation Strategist](https://media.licdn.com/dms/image/v2/D5616AQETiDMJNQ7WMw/profile-displaybackgroundimage-shrink_200_800/B56Z5A8XJ7KsAQ-/0/1779206026088?e=1782950400&v=beta&t=TcDiVylhXyHuQEMTL58btf8JiP_CxrX6t7geH5UN9Ms)
+![AI Automation Strategist]([https://media.licdn.com/dms/image/v2/D5616AQETiDMJNQ7WMw/profile-displaybackgroundimage-shrink_200_800/B56Z5A8XJ7KsAQ-/0/1779206026088?e=1782950400&v=beta&t=TcDiVylhXyHuQEMTL58btf8JiP_CxrX6t7geH5UN9Ms](https://media.licdn.com/dms/image/v2/D5616AQETiDMJNQ7WMw/profile-displaybackgroundimage-shrink_200_800/B56Z5A8XJ7KsAQ-/0/1779206026088?e=1793232000&v=beta&t=1z1g7PYUGfbPoYqaOuol8dEWilCfZQMpihjAp_5OvN8))
 
 I help businesses replace manual work with intelligent AI automation systems that drive real growth.
 
@@ -26,8 +26,6 @@ Skills: AI Automation
 - 🔭 I’m currently working on Fiverr and Upwork 
 - 🌱 I’m currently learning CRM 
 - 💬 Ask me about Automation 
-- 📫 How to reach me: mdshojiburrahmansoliman@gmail.com 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdshojiburrahmansoliman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-shojibur-rahman-soliman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdshojiburrahmansoliman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mdshojiburrahmansoliman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Shojiburrhaman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/mdshojiburrahmansoliman)  
 
